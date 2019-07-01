@@ -22,18 +22,18 @@ public class TruckList {
     }
     
     /**
-     * This method gets the first {@link TruckListNode} instance 
+     * This method gets the first {@link Truck} instance 
      * of the list.
      */
-    public TruckListNode getFirst(){
+    public Truck getFirst(){
         throw new UnsupportedOperationException("Not yet implemented.");
     }
     
     /**
-     * This method gets the last {@link TruckListNode} instance 
+     * This method gets the last {@link Truck} instance 
      * of the list.
      */
-    public TruckListNode getLast(){
+    public Truck getLast(){
         throw new UnsupportedOperationException("Not yet implemented.");
     }
 
